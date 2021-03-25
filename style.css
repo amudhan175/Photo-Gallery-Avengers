@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+. menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: Opx;
+    top: Opx;
+    z-index: 10;
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+    text-shadow: 2px 2px gainsboro;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+flex-container {
+    display: flex;
+}
+
+img {
+    width: 250px;
+    height: 200px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
